@@ -1,0 +1,9 @@
+.font-size-12{
+    font-size: 12px;
+}
+.config-table>:not(caption)>*>* {
+    padding: 0.15rem .85rem !important;
+}
+.borderbotom{
+    border-bottom: 1px solid #ccc;
+}
